@@ -1,0 +1,28 @@
+Signature-Version: 1.0
+Created-By: 17.0.6 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: SWmKFd2L6Ga5NrJsWORKJk/ySihxKok70exoCUaScXQ=
+SHA-256-Digest-Manifest-Main-Attributes: 4UE0PePBoeYwQE34DZ3qvjwGwlip9sj
+ sXApQsJRDg3I=
+
+Name: features/net.sourceforge.pmd.eclipse_7.0.0.v20230410-1321-rc1.jar
+SHA-256-Digest: bLxeMXmisP85jn1G5NRPMlvt5+zE8KqZB3fzPSTlN54=
+
+Name: p2.index
+SHA-256-Digest: hW/YzWRZXfcCH9LSqdqkjEMU/h+qE3u6Uk5ZjSsnpak=
+
+Name: artifacts.jar
+SHA-256-Digest: 2MQfhw/w0ONKx6LauJEPi/43RpDmGPPGg9s7DR7hbGk=
+
+Name: content.xml.xz
+SHA-256-Digest: w+0aHjPTO80iFAZkeoamSZjiMadmW5rur2N9+A5p4ok=
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_7.0.0.v20230410-1321-rc
+ 1.jar
+SHA-256-Digest: VxUK2GjRryD+Zc+YgUZJiq/h8S1mO+56c7LKs4dOkhY=
+
+Name: content.jar
+SHA-256-Digest: sIYNVN2316/QV8FUSzs254sS2CTHht06LUOmwIofFlw=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: lzkYImHUjGzODJFLviO4lCkQwLrM253XE2jozoYEhWA=
+

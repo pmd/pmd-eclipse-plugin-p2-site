@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: 17.0.6 (Eclipse Adoptium)
+
+Name: p2.index
+SHA-256-Digest: jzMyuehVxg68EUp5gDZSBOcWLyWxlllELx0tJNzqBS4=
+
+Name: artifacts.jar
+SHA-256-Digest: W36WCh4WJ6ykHhXWoLJN49Qj55+2KvU1suo/lASuUos=
+
+Name: content.xml.xz
+SHA-256-Digest: hYaNP/vCkFm4i6rtSDHI2tN51oijSLsDUq6EGzCrzCU=
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_7.0.0.v20230502-1028-rc
+ 2.jar
+SHA-256-Digest: FUO5k72NFaDJwX/l2fmYRacUuv/fW6WS/+7OJU1epqs=
+
+Name: content.jar
+SHA-256-Digest: Vei4uzPGhW6A0Ly9Zswm/uAouIk8Ki5XK+uy4HZsEFo=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: z3Igz1Kmsuon2g5ZhzmJ4oSszQNpNh/4miTgaZQVFpY=
+
+Name: features/net.sourceforge.pmd.eclipse_7.0.0.v20230502-1028-rc2.jar
+SHA-256-Digest: 3nVliTYQFZ8PEqoo/ypm/EU4E98DxRBo7qWPprIvndE=
+
